@@ -1,0 +1,37 @@
+[
+  {
+    "id": "club_cs",
+    "name": "Computer Science Club",
+    "category": "Academic",
+    "description": "Weekly talks, hack nights, and collaborative projects.",
+    "leaders": ["stu_001"],
+    "members": ["stu_001", "stu_002"],
+    "meetings": {
+      "day": "Wednesday",
+      "time": "18:00",
+      "location": "Room 101"
+    },
+    "contact": {
+      "email": "csclub@example.edu",
+      "website": "https://example.edu/csclub"
+    }
+  },
+  {
+    "id": "club_ai",
+    "name": "AI Society",
+    "category": "Academic",
+    "description": "Reading group and build nights focused on AI/ML.",
+    "leaders": ["stu_001"],
+    "members": ["stu_001"],
+    "meetings": {
+      "day": "Monday",
+      "time": "17:00",
+      "location": "Lab 3"
+    },
+    "contact": {
+      "email": "ai-society@example.edu",
+      "website": "https://example.edu/ai"
+    }
+  }
+]
+
