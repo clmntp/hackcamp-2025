@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stu_1763269017396_t9yacn",
+    "firstName": "Test",
+    "lastName": "User",
+    "email": "test@example.com",
+    "password": "demo",
+    "gradYear": null,
+    "major": "",
+    "clubs": []
+  }
+]
